@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=prime&show_icons=true" />
+<img src="https://github-readme-stats.codestackr.vercel.app/api?username=prime7&show_icons=true" />
 </p>
 
 <!--
