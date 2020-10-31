@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=prime7&show_icons=true" />
-</p>
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=prime7&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=prime7&layout=compact&theme=blue-green" />
 
 <!--
 **prime7/prime7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
