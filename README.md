@@ -9,8 +9,8 @@
 </p>
 
 ### About me
-- 🔭 I’m currently looking for Junior Full-stack Web Developer roles.
-- 👯 I’m looking to collaborate on Django/React based projects.
+- 🔭 I’m currently looking for Senior Full-stack Web Developer roles.
+- 👯 I’m looking to collaborate on React/Nodejs based projects.
 
 ### 📚 Langues and Frameworks
 - HTML, CSS
